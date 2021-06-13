@@ -6,7 +6,7 @@ Feature: Login
     Then clicks on Usename Field
     And User enters username
     And User clicks on Password Field
-    And User enters Password
+    And User enters Password 
     And clicks on Login   
     And clicks on Administration
     And clicks on User Administration 
